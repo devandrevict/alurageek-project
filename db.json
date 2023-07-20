@@ -1,0 +1,351 @@
+{
+  "produto": [
+    {
+      "name": "Dark Soldier",
+      "imageUrl": "https://imageup.me/images/c715e3eb-a3c2-4ca3-a2b4-3f4b237bbc3a.png",
+      "price": "100.00",
+      "id": 1,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "White Soldier",
+      "imageUrl": "https://i.ibb.co/0B2RVKH/2.png",
+      "price": "100.00",
+      "id": 2,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Helmet",
+      "imageUrl": "https://i.ibb.co/nsnVMbg/3.png",
+      "price": "100.00",
+      "id": 3,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Dark Helmet",
+      "imageUrl": "https://i.ibb.co/ccNh2xR/4.png",
+      "price": "100.00",
+      "id": 4,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Yoda",
+      "imageUrl": "https://i.ibb.co/7nyXNyd/5.png",
+      "price": "100.00",
+      "id": 5,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Baby Yoda",
+      "imageUrl": "https://i.ibb.co/f802r39/6.png",
+      "price": "100.00",
+      "id": 6,
+      "category": "Star Wars",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Gameboy",
+      "imageUrl": "https://i.ibb.co/wrybdNV/1.png",
+      "price": "100.00",
+      "id": 7,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Nintendo Switch",
+      "imageUrl": "https://i.ibb.co/3c86Q5P/2.png",
+      "price": "100.00",
+      "id": 8,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Playstation",
+      "imageUrl": "https://i.ibb.co/xm1t9Y5/3.png",
+      "price": "100.00",
+      "id": 9,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Nintendo Switch Control",
+      "imageUrl": "https://i.ibb.co/ssbcgVL/4.png",
+      "price": "100.00",
+      "id": 10,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Xbox Console",
+      "imageUrl": "https://i.ibb.co/xzdM3q3/5.png",
+      "price": "100.00",
+      "id": 11,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Nintendo Console",
+      "imageUrl": "https://i.ibb.co/fxQsqXY/6.png",
+      "price": "100.00",
+      "id": 12,
+      "category": "Consoles",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Pìkachu",
+      "imageUrl": "https://i.ibb.co/pfVbPqK/1.png",
+      "price": "100.00",
+      "id": 13,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Nintendo Switch Control",
+      "imageUrl": "https://i.ibb.co/k8ghC2s/2.png",
+      "price": "100.00",
+      "id": 14,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Japanese Icon",
+      "imageUrl": "https://i.ibb.co/5jWsk6k/3.png",
+      "price": "100.00",
+      "id": 15,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Radio",
+      "imageUrl": "https://i.ibb.co/tBZXpjs/4.png",
+      "price": "100.00",
+      "id": 16,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Virtual Reality",
+      "imageUrl": "https://i.ibb.co/TPm3Y1z/5.png",
+      "price": "100.00",
+      "id": 17,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "name": "Sonic",
+      "imageUrl": "https://i.ibb.co/kQX0Bbk/6.png",
+      "price": "100.00",
+      "id": 18,
+      "category": "Diversos",
+      "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    },
+    {
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74
+    },
+    {
+      "id": 75
+    },
+    {
+      "id": 76
+    },
+    {
+      "id": 77
+    },
+    {
+      "id": 78
+    },
+    {
+      "id": 79
+    },
+    {
+      "id": 80
+    },
+    {
+      "id": 81
+    },
+    {
+      "id": 82
+    },
+    {
+      "id": 83
+    },
+    {
+      "name": "",
+      "imageUrl": "https://i.ibb.co/5L3BWQp/ber.jpg",
+      "price": null,
+      "category": "Star Wars",
+      "description": "",
+      "id": 84
+    }
+  ]
+}

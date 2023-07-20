@@ -1,0 +1,44 @@
+.banner{
+    position: relative;
+}
+
+.banner__img{
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.banner_texts{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    top: -200px;
+    margin-left: 80px
+}
+
+.banner__button{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+    background-color: #2A7AE4;
+    color: white;
+    border:none;
+    width: 130px;
+    height: 51px;
+    cursor: pointer;
+}
+
+.banner__title{
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+
+.banner__subtitle{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}

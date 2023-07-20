@@ -1,0 +1,59 @@
+.login__section{
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: center;
+}
+
+.login__div{
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.login__title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #464646;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.login__input--email--password{
+    width: 423px;
+    height: 63px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    border: none;
+    margin-bottom: 15px;
+}
+
+.login__input--email--password:focus{
+    outline: none;
+}
+
+.login__input--email--password::placeholder{
+    color: #A2A2A2;
+}
+
+.login__button{
+    width: 423px;
+    height: 62px;
+    background-color: #2A7AE4;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    border: none;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.loginForm{
+    display: flex;
+    flex-direction: column;
+}

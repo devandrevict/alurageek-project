@@ -1,0 +1,114 @@
+.banner{
+    position: relative;
+}
+
+.banner__div{
+    background-color: red;
+    background-image: url(../img/banner-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35vh;
+    display: flex;
+}
+
+.banner__img{
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.banner_texts{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    margin-left: 156px;
+}
+
+.banner__button{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+    background-color: #2A7AE4;
+    color: white;
+    border:none;
+    width: 130px;
+    height: 51px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+}
+
+.banner__title{
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+
+.banner__subtitle{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+/* **************************************************************** */
+
+@media screen and (max-width: 768px){ /*mobile */
+
+    .banner{
+        max-width: 100%;
+        height: auto;
+    }
+
+    .banner__title{
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .banner__subtitle{
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .banner_texts{
+        top: -130px;
+    }
+}
+
+/* **************************************************************** */
+
+@media screen and (min-width: 0px) and (max-width: 562px){ /*mobile */
+    .banner_texts{
+        margin: 0px;
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+}
+
+
+@media screen and (min-width:563px) and (max-width: 769px){ /*tablet */
+    .banner_texts{
+        margin: 0px;
+        margin-left: 34px;
+        margin-right: 34px;
+    }
+}
+
+
+@media screen and (min-width: 770px) and (max-width: 1024px){ /*laptop */
+    .banner_texts{
+        margin: 0px;
+        margin-left: 80px;
+        margin-left: 80px;
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width: 1440px){ /*desktop */
+
+}

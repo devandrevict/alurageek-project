@@ -1,0 +1,180 @@
+.cabecalho__navegacao{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.cabecalho__wrap{
+    display: flex;
+    justify-content: space-between;
+
+    padding: 32px 0 32px 0;
+}
+
+.cabecalho__busca-input{
+    width: 393px;
+    height: 40px;
+    border-radius: 20px;
+    gap: 8px;
+    background-color: #F5F5F5;
+    border: none;
+}
+
+.cabecalho__busca-input::placeholder{
+    position: relative;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #A2A2A2;
+    left:8px
+}
+
+.cabecalho__busca-input:focus{
+    outline: none;
+}
+
+.cabecalho__logo-busca{
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__logo{
+    margin-right: 30px;
+}
+
+.cabecalho__iconBusca{
+    position: relative;
+    right: 35px;
+    cursor: pointer;
+}
+
+.cabecalho__button-login{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2A7AE4;
+    border-color: #2A7AE4;
+    width: 182px;
+    height: 51px;
+    background-color: white;
+    cursor:pointer
+}
+
+/* **************************************************************** */
+
+@media screen and (min-width: 0px) and (max-width: 562px){ /*mobile */
+
+    .cabecalho__navegacao{
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+
+    .cabecalho__wrap{
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+
+    .cabecalho__logo1{
+        order:1;
+        width: 180px;
+    }
+
+    .cabecalho__logo-busca{
+        order:3;
+        width: 10%;
+    }
+
+    .cabecalho__login{
+        order:2;
+    }
+    
+    .cabecalho__busca-input{
+        display: none;
+    }
+
+
+    .cabecalho__iconBusca{
+        right:0;
+    }
+
+    .cabecalho__button-login{
+        width: 180px;
+    }
+}
+
+
+@media screen and (min-width:563px) and (max-width: 769px){ /*tablet */
+
+    .cabecalho__navegacao{
+        margin-left: 34px;
+        margin-right: 34px;
+    }
+
+    .cabecalho__logo1{
+        width: 180px;
+        margin-right: 20px;
+    }
+
+    .cabecalho__wrap{
+        justify-content: flex-start;
+    }
+
+    .cabecalho__logo-busca{
+        width: 300px;
+        margin-right: 45px;
+    }
+
+    .cabecalho__busca-input{
+        width: 393px;
+    }
+
+    
+    .cabecalho__button-login{
+        width: 166px;
+    }
+}
+
+
+@media screen and (min-width: 770px) and (max-width: 1024px){ /*laptop */
+    .cabecalho__button-login{
+        width: 166px;
+    }
+
+    .cabecalho__busca-input{
+        width: 393px;
+    }
+
+    .cabecalho__logo1{
+        width: 200px;
+    }
+
+    .cabecalho__wrap{
+        justify-content: flex-start;
+    }
+}
+
+@media screen and (min-width:1025px){ /*desktop */
+
+    .cabecalho__navegacao{
+        margin-left: 156px;
+        margin-right: 156px;
+    }
+
+    .cabecalho__wrap{
+        justify-content: flex-start;
+    }
+
+    .cabecalho__button-login{
+        width: 182px;
+    }
+
+    .cabecalho__busca-input{
+        width: 393px;
+    }
+
+    .cabecalho__logo1{
+        width: 200px;
+    }
+    
+}
